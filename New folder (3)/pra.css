@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+.container {
+  text-align: center;
+ box-shadow: blue;
+}
+.link {
+  text-align: center;
+  
+  width: 5%;
+}
+body {
+  background-image: url(./pics/a92e97df75bcb75b2a4df6a6a7edb495.png);
+}
+img:hover {
+  border: 2px;
+  border-radius: 2px;
+  p
+}
